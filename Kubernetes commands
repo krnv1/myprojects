@@ -1,0 +1,7 @@
+    kubectl get nodes
+    docker run -d ngnix
+    docker run -d nginx
+    kubectl run pod1 --image nginx
+    kubectl describe pod pod1
+    kubectl get pods
+    kubectl get pods -o wide
