@@ -1,3 +1,5 @@
+    gcloud container clusters get-credentials cluster-demo --zone us-central1-c --project swift-apogee-359002gcloud container clusters get-credentials cluster-demo --zone us-central1-c --project swift-apogee-359002
+    gcloud container clusters get-credentials cluster-demo --zone us-central1-c --project swift-apogee-359002
     kubectl get nodes
     docker run -d ngnix
     docker run -d nginx
