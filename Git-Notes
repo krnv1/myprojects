@@ -181,7 +181,7 @@ make chnages and commit on branch
 
 git checkout master
 
-git merge feature master
+git merge feature master s
 
 git branch -d feature
 
